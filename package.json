@@ -1,0 +1,24 @@
+{
+  "name": "sos-pruebas-joslopber",
+  "version": "1.0.0",
+  "description": "SOS prueba joslopber\r hello\r buenos días",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/joslopber/SOS-pruebas-joslopber.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/joslopber/SOS-pruebas-joslopber.git/issues"
+  },
+  "homepage": "https://github.com/joslopber/SOS-pruebas-joslopber.git#readme",
+  "dependencies": {
+    "cool-ascii-faces": "^1.3.4",
+    "express": "^4.18.2"
+  }
+}
