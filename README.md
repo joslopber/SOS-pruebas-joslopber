@@ -1,4 +1,2 @@
-# Codigo del L05
--Inicio a Express
--uso de npm con modulos
--despliegue de gloud
+# Codigo del L06
+-API sencilla con get y post
