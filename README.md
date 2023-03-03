@@ -1,4 +1,4 @@
-# SOS-pruebas-joslopber
-SOS pruebas joslopber
-hello
-buenos días
+# Codigo del L05
+-Inicio a Express
+-uso de npm con modulos
+-despliegue de gloud
