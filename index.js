@@ -28,7 +28,7 @@ app.get(BASE_API_URL + "/contacts",(request,response) => {
 app.post(BASE_API_URL + "/contacts",(request,response) => {
     var newContact = request.body; 
 
-    console.log(`newContact = <${}>`);
+    console.log(`newContact = ${JSON.stringify(newContact,null,2)}`);
     console.log("New POST to /contacts");
 
     contacts.push(newContact);
